@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 廣韻
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:55.511809
+#+PROPERTY: ID KR1j0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0013-001廣韻-一卷.
 <pb:KR1j0054_SBCK_001-1a>¶
 大宋重修廣韻一部¶
 　　　凡二万六千一百九十四言¶
@@ -123,6 +127,8 @@
 音各自有淸濁若細分其條目則令韻部繁碎徒拘¶
 桎於文辝耳¶
 <pb:KR1j0054_SBCK_001-6b>¶
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0013-001廣韻-卷第一.
 <pb:KR1j0054_SBCK_001-7a>¶
 廣韻上平聲卷第一¶
 (德/紅)東第一(獨用/都/宗)冬第二(鍾同用)¶
@@ -1454,4 +1460,3 @@
 (牛尾/色也)黫(黒色出/字林)斒(斒斕色不純/也方閑切二)虨(虎文又/甫巾切)斕(斕斒力/閑切四)¶
 <pb:KR1j0054_SBCK_001-71a>¶
 <pb:KR1j0054_SBCK_001-72a>¶
-

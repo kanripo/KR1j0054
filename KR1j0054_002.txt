@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 廣韻
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:55.627479
+#+PROPERTY: ID KR1j0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0013-002廣韻-卷第二.
 <pb:KR1j0054_SBCK_002-1a>¶
 廣韻下平聲卷第二¶
 (蘇/前)先第一(仙同用/相/然)仙第二¶
@@ -1305,4 +1309,3 @@
 　　　新添類隔今更音和切¶
 緜(名延/切/中全/切)閍(北盲/切)平(僕兵/切)凡(符芝/切)䒦(敷凡/切)¶
 <pb:KR1j0054_SBCK_002-65a>¶
-

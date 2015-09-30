@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 廣韻
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:55.854949
+#+PROPERTY: ID KR1j0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0013-005廣韻-卷第五.
 <pb:KR1j0054_SBCK_005-1a>¶
 廣韻入聲卷第五¶
 (烏/谷)屋第一(獨/用/烏/酷)沃第二(燭同/用)¶
@@ -1265,4 +1269,3 @@
 (財史記云恐猲諸侯/起法切又呼葛切二)姂(好/皃)䎎(飛上皃女/法切三/水皃/靜/䎎)¶
 (飛上皃丑/法切一)¶
 廣韻入聲卷第五¶
-
